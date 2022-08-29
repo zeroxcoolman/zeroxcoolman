@@ -1,5 +1,15 @@
-I am a pretty "big" coder.
-<!---
-zeroxcoolman/zeroxcoolman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# I well like to code most of the time
+
+`I really like expirementing in coding`
+
+## I used backtix for writing that line
+
+## There is a alot of things about me like
+
+## I like to experiment with computers
+
+## See one of my forked repos?
+
+## BluescreenSimulator is self-explanitory.
+
+## and yeah so thanks for reading this readme.md
